@@ -7,7 +7,7 @@ Write a function (using ES6) that union all overlapping items and produces an ar
 ## 1. Clone the project
 
     git clone https://github.com/tricao86/non-overlapping-ranges.git
-    cd union-overlapping-items
+    cd non-overlapping-ranges
 
 ## 2. Install Node.js (if not installed)
 
